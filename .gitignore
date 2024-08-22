@@ -3,5 +3,6 @@
 # Dont ignore .gitignore (this file)
 !/.gitignore
 
+# ignore
 .DS_Store/
 .ipynb_checkpoints/
